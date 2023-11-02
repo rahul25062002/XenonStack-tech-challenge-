@@ -1,5 +1,6 @@
 # XenonStack-tech-challenge-
-![Screenshot (925)](https://github.com/rahul25062002/XenonStack-tech-challenge-/assets/75932347/2b6497a2-a2c7-4813-84d4-5f30ce443891)
+![Screenshot (926)](https://github.com/rahul25062002/XenonStack-tech-challenge-/assets/75932347/05ed4bdf-27c7-44b2-9cbf-4fbb2b89fa47)
+
 
 # internsctl - Custom Linux Command
 
